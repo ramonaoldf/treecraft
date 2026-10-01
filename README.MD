@@ -11,7 +11,7 @@ A powerful CLI for directory visualization, generation, and analysis, designed f
 npm install -g treecraft
 
 # Or use directly from the repo
-git clone https://github.com/TheAlphamerc/treecraft.git
+git clone https://github.com/ramonaoldf/treecraft.git
 cd treecraft
 npm install
 npm run build
@@ -212,7 +212,7 @@ For complete documentation of all features, options, and advanced usage examples
 
 ## Contributing
 
-1. Clone: `git clone https://github.com/TheAlphamerc/treecraft.git`
+1. Clone: `git clone https://github.com/ramonaoldf/treecraft.git`
 2. Install: `npm install`
 3. Build: `npm run build`
 4. Test: `npm test`
